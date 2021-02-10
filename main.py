@@ -4,7 +4,8 @@
 queries = [
     ("bye", "Goodbye"),
     ("hello", "Hello, how are you!"),
-    ("what is your name", "My name is chatbot.")
+    ("what is your name", "My name is chatbot."),
+    ("how are you", "I am fine, thank you.")
     ]
 
 # given an input query string, return a response
